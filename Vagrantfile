@@ -1,4 +1,4 @@
-# -*- mode: ruby -*-
+# -*- mode: ruby -*- this is my new mutli
 # vi: set ft=ruby :
 Vagrant.configure("2") do |config|
  config.vm.define "server" do |server|
